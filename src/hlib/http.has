@@ -1,0 +1,8 @@
+use file
+use os
+cuse libcpp.http
+
+function get(url:string) : string
+function post(url:string,post_data:string):string
+function download(url:string,path:string):bool
+function upload(url:string,path:string):bool
