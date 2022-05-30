@@ -1,2 +1,6 @@
 # llvm
-llvm based hascal compiler(will be replaced with the main compiler)
+This repo contains an experimental LLVM based compiler for [Hascal](https://github.com/hasca/hascal).
+
+## Goals
+- [ ] Compile Hascal to LLVM IR(WIP)
+- [ ] Compatible with C++
